@@ -150,6 +150,7 @@ nav {
   .mastfoot {
     position: fixed;
     bottom: 0;
+    height:25px;
   }
   /* Start the vertical centering */
   .site-wrapper-inner {
