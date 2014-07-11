@@ -1,3 +1,4 @@
-This is a website I built using a [Bootstrap 3](http://getbootstrap.com) boilerplate.
+[Personal Website](http://wjoba.herokuapp.com)
+================
 
-It is currently deployed on Heroku [here](http://wjoba.herokuapp.com).
+This website was built using a [Bootstrap 3](http://getbootstrap.com) boilerplate.
